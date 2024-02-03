@@ -1,0 +1,14 @@
+E:\c# projects\Generics2\bin\Debug\net8.0\Generics2.exe
+E:\c# projects\Generics2\bin\Debug\net8.0\Generics2.deps.json
+E:\c# projects\Generics2\bin\Debug\net8.0\Generics2.runtimeconfig.json
+E:\c# projects\Generics2\bin\Debug\net8.0\Generics2.dll
+E:\c# projects\Generics2\bin\Debug\net8.0\Generics2.pdb
+E:\c# projects\Generics2\obj\Debug\net8.0\Generics2.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# projects\Generics2\obj\Debug\net8.0\Generics2.AssemblyInfoInputs.cache
+E:\c# projects\Generics2\obj\Debug\net8.0\Generics2.AssemblyInfo.cs
+E:\c# projects\Generics2\obj\Debug\net8.0\Generics2.csproj.CoreCompileInputs.cache
+E:\c# projects\Generics2\obj\Debug\net8.0\Generics2.dll
+E:\c# projects\Generics2\obj\Debug\net8.0\refint\Generics2.dll
+E:\c# projects\Generics2\obj\Debug\net8.0\Generics2.pdb
+E:\c# projects\Generics2\obj\Debug\net8.0\Generics2.genruntimeconfig.cache
+E:\c# projects\Generics2\obj\Debug\net8.0\ref\Generics2.dll
