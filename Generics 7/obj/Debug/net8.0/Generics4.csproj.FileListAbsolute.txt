@@ -1,0 +1,14 @@
+E:\c# projects\Generics4\bin\Debug\net8.0\Generics4.exe
+E:\c# projects\Generics4\bin\Debug\net8.0\Generics4.deps.json
+E:\c# projects\Generics4\bin\Debug\net8.0\Generics4.runtimeconfig.json
+E:\c# projects\Generics4\bin\Debug\net8.0\Generics4.dll
+E:\c# projects\Generics4\bin\Debug\net8.0\Generics4.pdb
+E:\c# projects\Generics4\obj\Debug\net8.0\Generics4.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# projects\Generics4\obj\Debug\net8.0\Generics4.AssemblyInfoInputs.cache
+E:\c# projects\Generics4\obj\Debug\net8.0\Generics4.AssemblyInfo.cs
+E:\c# projects\Generics4\obj\Debug\net8.0\Generics4.csproj.CoreCompileInputs.cache
+E:\c# projects\Generics4\obj\Debug\net8.0\Generics4.dll
+E:\c# projects\Generics4\obj\Debug\net8.0\refint\Generics4.dll
+E:\c# projects\Generics4\obj\Debug\net8.0\Generics4.pdb
+E:\c# projects\Generics4\obj\Debug\net8.0\Generics4.genruntimeconfig.cache
+E:\c# projects\Generics4\obj\Debug\net8.0\ref\Generics4.dll
